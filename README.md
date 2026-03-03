@@ -1,1 +1,1 @@
-# MARKETING-CAMPAIGN-PREDICTION (Random Forest)
+# Marketing Campaign Prediction (Random Forest)
